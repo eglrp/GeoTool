@@ -1881,3 +1881,5 @@ int AbstractCorrect::setFileName(FileName &filename){
 	pointName = filename.pointName;
 	return 0;
 }
+
+//this is a test
